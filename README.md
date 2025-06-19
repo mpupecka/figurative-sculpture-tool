@@ -31,7 +31,7 @@ Scales average female human body proportions for figurative sculpture based on t
 
 ```
 Welcome to the Figurative Sculpture Body Scaler!
-Enter the desired height of the sculpture (in cm): 170
+Enter the desired height of the sculpture (in cm): 50
 
 Scaled body part dimensions for a sculpture of 50.0 cm:
 
